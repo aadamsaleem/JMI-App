@@ -1,0 +1,88 @@
+http://jmi.ac.in/announcementarchiveresult/archives/2013/05/bulletinboard/announcements/archives
+
+
+http://jmi.ac.in/announcementarchiveresult/archives/2013/05/
+
+
+
+
+
+latlong:
+College
+28.56134   77.28146
+
+engg 
+Latitude	Longitude
+28.56031	77.27952
+
+proctor office
+Latitude	Longitude
+28.56148	77.28367
+
+library
+Latitude	Longitude
+28.56154	77.28226
+
+sports complex
+Latitude	Longitude
+28.56216	77.27895
+
+dentistry
+Latitude	Longitude
+28.56428	77.27921
+
+bus stand
+
+Latitude	Longitude
+28.56092	77.27999
+
+ansari health
+Latitude	Longitude
+28.56235	77.28556
+
+polytechnic
+Latitude	Longitude
+28.56315	77.28145
+
+physiotherapy
+Latitude	Longitude
+28.55955	77.28105
+
+mass comm
+Latitude	Longitude
+28.55956	77.28442
+
+
+school
+Latitude:	28.563651
+Longitude: 77.282606
+
+
+indian bank
+
+28.561264,77.279679
+
+hostel entry
+28.564916,77.280758
+
+central canteen
+28.562018
+77.280225
+
+art gallery
+28.558975,77.283158
+
+
+fx uth cafe
+28.559005,77.283561
+
+maggi point
+28.558078,77.281532
+
+management studies
+28.557881
+77.280894
+
+engg library/reading room
+28.559428
+77.278812

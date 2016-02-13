@@ -1,0 +1,36 @@
+body{
+    margin:0 auto;
+    padding:0;
+    text-align:left;
+    height:auto;
+    font-size:12px;
+    font-family:arial;
+    background-color:#fff;
+    
+    
+}
+.img{
+    border:solid 1px #e8e8e8;
+    padding:5px;
+    width:40px;
+    margin-top:15px;
+    height:40px;
+    border-radius:5px
+}
+.img:hover{
+    background:#ddd;
+    border:solid 1px #ccc;
+    cursor:pointer
+}
+.study a{
+    color:#808080;
+    font-family:Arial;
+    font-size:12px;
+    padding:0;
+    text-decoration:none;
+    margin:0
+}
+.study a:hover{
+    color:#45916b
+}
+

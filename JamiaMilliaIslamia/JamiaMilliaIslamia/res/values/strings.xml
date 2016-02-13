@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="feedbacktype1">2013</string>
+    <string name="feedbacktype2">2012</string>
+    <string name="feedbacktype3">2011</string>
+    <string name="feedbacktype4">2010</string>
+    <string name="feedbacktype5">2009</string>
+    <string name="feedbacktype6">2008</string>
+    <string name="feedbacktypes1">01</string>
+    <string name="feedbacktypes2">02</string>
+    <string name="feedbacktypes3">03</string>
+    <string name="feedbacktypes4">04</string>
+    <string name="feedbacktypes5">05</string>
+    <string name="feedbacktypes6">06</string>
+    <string name="feedbacktypes7">07</string>
+    <string name="feedbacktypes8">08</string>
+    <string name="feedbacktypes9">09</string>
+    <string name="feedbacktypes10">10</string>
+    <string name="feedbacktypes11">11</string>
+    <string name="feedbacktypes12">12</string>
+    <string name="app_name">Jamia Millia Islamia</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">Hello world!</string>
+    <string name="submit">Search</string>
+    <string name="antirag">Anti-Ragging</string>
+    <string name="name">Name</string>
+    <string name="desig">Designation</string>
+    <string name="direc">Direct</string>
+    <string name="name1">Prof. Masood Alam</string>
+    <string name="desig1">Proctor and Advisor Security</string>
+    <string name="direc1">26982434</string>
+    <string name="contact">\
+Jamia Millia Islamia, 
+Jamia Nagar, 
+New Delhi-110025,
+India.\n
+Phone:\n</string>
+    <string name="ph1">+911126981717</string>
+    <string name="ph2">+911126984617</string>
+    <string name="ph3">+911126984658</string>
+    <string name="ph4">+911126988044</string>
+    <string name="ph5">+911126987183</string>
+    <string name="fax">Fax: +91(11)2698 0229</string>
+
+    <drawable name="background">#9ccc</drawable>
+    <color name="back">#FAFAFA</color>
+
+</resources>
